@@ -1,7 +1,7 @@
 # deepmutation
 original idea: https://arxiv.org/pdf/1805.05206.pdf
 
-This is a project I selected as my course project for Analysis of Software Artifacts in Fall 2019 at the University of Virginia. As explained in the above paper, the goal is insert mutants into the model and the data in order to evaluate the quality of the testing data in deep neural networks. Below is my proposal for the project, which largely overlaps with the original paper, DeepMutation: Mutation Testing of Deep Learning Systems.
+This is a project I selected as my course project for Analysis of Software Artifacts in Fall 2019 at the University of Virginia. As explained in the above paper, the goal is to insert mutants into the model and the data in order to evaluate the quality of the testing data in deep neural networks. Below is my proposal for the project, which largely overlaps with the original paper, DeepMutation: Mutation Testing of Deep Learning Systems.
 
 ----------------------------------------------------------------------------------------------------------------
 
